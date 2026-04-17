@@ -1,5 +1,5 @@
 import customtkinter as ctk
-from formatador import formatar_musica
+from Formatador import formatar_musica
 from database import salvar_musica # Importando a nova função
 
 class JanelaPrincipal(ctk.CTk):
